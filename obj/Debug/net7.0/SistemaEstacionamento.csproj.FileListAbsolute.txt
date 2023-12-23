@@ -1,0 +1,15 @@
+/home/brenoacioli/Documents/SistemaEstacionamento/bin/Debug/net7.0/SistemaEstacionamento
+/home/brenoacioli/Documents/SistemaEstacionamento/bin/Debug/net7.0/SistemaEstacionamento.deps.json
+/home/brenoacioli/Documents/SistemaEstacionamento/bin/Debug/net7.0/SistemaEstacionamento.runtimeconfig.json
+/home/brenoacioli/Documents/SistemaEstacionamento/bin/Debug/net7.0/SistemaEstacionamento.dll
+/home/brenoacioli/Documents/SistemaEstacionamento/bin/Debug/net7.0/SistemaEstacionamento.pdb
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.csproj.AssemblyReference.cache
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.AssemblyInfoInputs.cache
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.AssemblyInfo.cs
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.csproj.CoreCompileInputs.cache
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.dll
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/refint/SistemaEstacionamento.dll
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.pdb
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/SistemaEstacionamento.genruntimeconfig.cache
+/home/brenoacioli/Documents/SistemaEstacionamento/obj/Debug/net7.0/ref/SistemaEstacionamento.dll
